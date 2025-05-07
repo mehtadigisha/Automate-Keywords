@@ -1,8 +1,9 @@
+torch
 flask
 pandas
-openpyxl
 transformers
 keybert
 yake
-sentence-transformers
-torch
+openpyxl
+gunicorn
+scikit-learn
